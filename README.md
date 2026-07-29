@@ -134,7 +134,7 @@ My long-term goal is to progress from foundational Python projects into more adv
 
 I'm always interested in connecting with other developers, technology professionals, and people working in cloud computing, AI, and infrastructure.
 
-🔗 **LinkedIn:** [Add your LinkedIn URL here]
+🔗 **LinkedIn:** https://www.linkedin.com/in/michael-murchie/
 
 ---
 

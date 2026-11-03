@@ -2,140 +2,40 @@
 
 ### Aspiring Cloud & AI Infrastructure Engineer
 
-I'm an aspiring technology professional **self-taught in programming and cloud technologies**, currently building my skills in **Python, AWS, cloud computing, and AI infrastructure**.
-
-After earning my **B.S. in Marketing with a concentration in Sports & Entertainment Management from the University of South Florida**, I'm transitioning into the technology field and developing my technical skills through **self-directed learning, hands-on projects, structured study, and continuous practice**.
-
-I'm particularly interested in how technology and infrastructure work at scale, and I'm working toward a career in **cloud engineering, DevOps, AI infrastructure, and cloud architecture**.
+Self-taught Python developer and **AWS Certified Cloud Practitioner**, currently working toward **AWS Solutions Architect – Associate**. I build hands-on Python projects every week and I'm looking for entry-level roles in cloud, software development, DevOps, and infrastructure.
 
 ---
 
-## 💻 What I'm Learning
+## 🚀 Featured Project
 
-* 🐍 Python Programming
-* ☁️ Amazon Web Services (AWS)
-* 🏗️ Cloud Architecture
-* 🤖 Artificial Intelligence & AI Infrastructure
-* ⚙️ DevOps & Automation
-* 🔐 Cybersecurity Fundamentals
+### [Kalshi Trading Bot](https://github.com/MichaelTM0/kalshi-trading-bot)
 
----
+An automated Python trading system for crypto prediction markets, deployed on **AWS EC2**.
 
-## 🛠️ Technologies & Tools
-
-**Currently Working With:**
-
-* Python
-* AWS
-* Git & GitHub
-* CSV Data Processing
-* Python Dictionaries & Lists
-* Functions & Modular Programming
-* File Handling
-* Exception Handling
-* Data Processing & Validation
-
-**Currently Learning:**
-
-* AWS Cloud Architecture
-* Cloud Computing
-* AI Infrastructure
-* DevOps
-* Automation
+* RSA-PSS authenticated REST API integration with live market data
+* Modular design: separate data, model, strategy, execution, and backtesting layers
+* Tested against thousands of paper trades, with calibration testing, diagnostics, and a circuit-breaker risk control
+* Findings documented in the README, including a negative result
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech & Tools
 
-Here are some of the projects I've built while developing my Python programming skills:
+**Working with:** Python · AWS (EC2) · REST APIs · Git & GitHub · pandas / numpy / scipy · CSV & JSON processing · File handling · Exception handling
 
-### 🏦 Banking Simulator
-
-A command-line banking application featuring:
-
-* User login authentication
-* Checking and savings accounts
-* Deposits and withdrawals
-* Account-to-account transfers
-* Transaction history
-* Input validation
-
-### 💰 Personal Expense Tracker
-
-A Python-based expense tracking application featuring:
-
-* Adding and viewing expenses
-* Expense categorization
-* Category-based searching
-* Monthly financial summaries
-* CSV file storage
-
-### 📊 CSV Data Processor
-
-A data processing application that works with CSV files and provides:
-
-* CSV data loading
-* Record viewing
-* Row counting
-* Highest and lowest income calculations
-* Average income calculations
-* Name and city searches
-* Saving processed data to CSV
-
-### 📇 Contact Book
-
-A Python contact management application featuring:
-
-* Adding contacts
-* Viewing contacts
-* Searching contacts
-* Deleting contacts
-* Dictionary-based data organization
-
-### 🔄 Unit Converter
-
-A Python application that converts between:
-
-* Centimeters and inches
-* Inches and centimeters
-* Kilograms and pounds
-* Pounds and kilograms
-* Kilometers per hour and miles per hour
-* Miles per hour and kilometers per hour
+**Currently learning:** AWS Solutions Architect – Associate · Object-oriented programming · Cloud architecture · DevOps & automation · Cybersecurity fundamentals (TryHackMe)
 
 ---
 
-## 🎯 Career Goals
+## 📂 More Projects
 
-My goal is to build a career in technology where I can work with **cloud infrastructure, artificial intelligence, automation, and large-scale systems**.
-
-I'm currently focused on strengthening my programming fundamentals and building practical projects while expanding my knowledge of AWS and cloud technologies.
-
-I'm actively working toward opportunities in **entry-level technology, cloud, DevOps, and infrastructure-focused roles**.
-
----
-
-## 📚 Currently Building
-
-I'm continuously adding new projects to my portfolio as I develop my technical skills.
-
-My long-term goal is to progress from foundational Python projects into more advanced applications involving:
-
-* ☁️ AWS Cloud Services
-* 🏗️ Cloud Architecture
-* 🤖 AI & Machine Learning Infrastructure
-* ⚙️ DevOps & Automation
-* 🔐 Cloud Security
-* 📈 Scalable Systems
+* [Password Cracker](https://github.com/MichaelTM0/password-cracker-github) and [Password Tester Upgrade](https://github.com/MichaelTM0/passwordtesterupgrade-github): educational security demos in Python
+* [Student Performance Analyzer](https://github.com/MichaelTM0/student-performance-github): CSV-based grade analytics
+* [Inventory Tracker](https://github.com/MichaelTM0/Inventory-Tracker-Github): CSV storage with low-stock alerts
+* [JSON Data Manager](https://github.com/MichaelTM0/json-github): create, edit, and save JSON data
 
 ---
 
 ## 📫 Connect With Me
 
-I'm always interested in connecting with other developers, technology professionals, and people working in cloud computing, AI, and infrastructure.
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/michael-murchie/
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-murchie/)
